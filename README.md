@@ -30,4 +30,5 @@ The database is composed of the following dimension and fact tables:
 - **Index optimization for query performance**
 
 ## 📌 SQL Queries visit 
-``` file.sql
+```
+file.sql
